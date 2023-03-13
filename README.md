@@ -17,10 +17,10 @@ Note: For the team notebook you will have to remove any redundant information.
 
 
 Order of notebooks:
-Book1 - Ingest data
-Book2 - Clean data
-Book3 - Visualizations
-Book4 - MinMax Scaling
-Book5 - ML Algorithm
+- Book1 - Ingest data
+- Book2 - Clean data
+- Book3 - Visualizations
+- Book4 - MinMax Scaling
+- Book5 - ML Algorithm
 
 ### Thank you for all your help!
